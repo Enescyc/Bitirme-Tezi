@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset
+
+
+42 adet çalışma
+ortalama %90 üzeri doğruluk
